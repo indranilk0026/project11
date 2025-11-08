@@ -1,0 +1,6 @@
+streamlit
+numpy
+pandas
+scikit-learn
+ # Or whatever ML library you used (e.g., tensorflow)
+# Add any other libraries your app imports!
